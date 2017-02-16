@@ -3,8 +3,8 @@
 Clone this starter kit to save time on creating a new React/Redux project. Uses:
 * [create-react-app]()
 * Rails 5 for API [set up following this guide](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/)
-* Redux
-* PostgresSQ:
+* [Redux](https://github.com/reactjs/redux)
+* [PostgresSQL](https://www.postgresql.org/about/)
 
 ## Setup
 *note*: You'll need to have a number of dependencies installed to get this going.
