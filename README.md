@@ -1,13 +1,13 @@
 # README
 
 Clone this starter kit to save time on creating a new React/Redux project. Uses:
-* [create-react-app]()
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
 * Rails 5 for API [set up following this guide](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/)
 * [Redux](https://github.com/reactjs/redux)
 * [PostgresSQL](https://www.postgresql.org/about/)
 
 # Setup
-*note*: You'll need to have a number of dependencies installed to get this going.
+*note*: You'll need to have a number of dependencies installed to get this going, but you probably have them all if you're already here.
 
 1. `git clone` this repo and `cd` into the directory.
 2. `bundle install && cd frontend && npm install && cd ..`
