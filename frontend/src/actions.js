@@ -2,6 +2,7 @@ import * as types from './constants'
 import $ from 'jquery'
 const __DEV__ = process.env.NODE_ENV === 'development'
 
+// Stubbed out a few handy actions. No need to use jquery, can use fetch, but ajax is a preference of mine
 export function receiveError (data) {
   if (__DEV__) {
     console.debug('[ACTION] receiveError', data)  // eslint-disable-line

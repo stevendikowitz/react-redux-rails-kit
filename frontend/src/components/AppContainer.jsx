@@ -7,10 +7,6 @@ const mapStateToProps = (state, ownProps) => {
 }
 
 const mapDispatchToProps = (dispatch, ownProps) => {
-  if (process.env.NODE_ENV && typeof window === 'object') {
-    window.ScbDispatch = dispatch
-  }
-
   return {
   }
 }
